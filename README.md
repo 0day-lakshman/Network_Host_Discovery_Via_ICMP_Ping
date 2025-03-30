@@ -1,5 +1,5 @@
 # Network_Host_Discovery_Via_ICMP_Ping
-Working Principle:
+Working Principle :
 This Python program, using Scapy, performs network host discovery by sending ICMP Echo Requests (ping) to every possible host within a specified subnet (CIDR range). The working principle follows these steps:
 
 * User Input : The user provides a network in CIDR notation (e.g., 192.168.1.0/24).
